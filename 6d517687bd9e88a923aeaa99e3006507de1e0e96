@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "3ab451fb_31d86853",
+        "filename": "index.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1009911
+      },
+      "writtenOn": "2016-12-14T13:42:12Z",
+      "side": 1,
+      "message": "should be \"gerrit training\"",
+      "range": {
+        "startLine": 5,
+        "startChar": 12,
+        "endLine": 5,
+        "endChar": 21
+      },
+      "revId": "6d517687bd9e88a923aeaa99e3006507de1e0e96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ab451fb_310aa8d3",
         "filename": "index.html",
         "patchSetId": 1
